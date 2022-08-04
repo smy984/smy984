@@ -1,8 +1,6 @@
 <h1 align="center">안녕하세요 👋 송민영입니다.</h1>
 <h3 align="center">코린이</h3>
 
-(https://github-readme-stats.vercel.app/api?username=&count_private=true&theme=vue-dark&show_icons=true)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
